@@ -35,6 +35,10 @@ El objetivo fundamental de este repositorio es **compartir abiertamente material
 
 ## 📺 Fuentes de Estudio, Videos y Playlists Utilizadas
 
+> [!NOTE] 
+> **Metodología de Transcripción y Creación de Casos:**  
+> Todos los videos y listas de reproducción de YouTube enumerados a continuación fueron **transcritos íntegramente** (extrayendo las transcripciones y subtítulos completos tanto en español como en inglés). A partir de este material transcrito, se procesó la información para **uso general, estructuración de las guías teóricas y la creación de casos prácticos de arquitectura**, permitiendo capturar el razonamiento técnico real y los criterios de evaluación de cada instructor.
+
 Para estructurar las guías teóricas y consolidar los bancos de más de **500 preguntas** con sus criterios arquitectónicos oficiales, se analizaron y sintetizaron materiales clave de la comunidad técnica y canales de referencia:
 
 ### 1. Canales y Listas de Reproducción de YouTube
